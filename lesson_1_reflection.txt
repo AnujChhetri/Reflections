@@ -1,0 +1,30 @@
+I think its a great way in which we find the errors between different versions
+of our work.
+Its also great, as I am getting the access to my work history, allowing me to use that 
+things into my new work.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+Ans. Pros for manual commits are that, if done correctly the log would be very resonable and 
+understandable and it would be a promising way for version control along with the commit control.
+Cons for manual commits can be considered if the right way for commit is not understood as commit should 
+be done after every logical change otherwise the commit log would be very conjusted and ununderstandable. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+Ans. To get a full track or log in between different files which are linked to each other. As in programming 
+there could be scenarios where one function has to call another function which is present in another file.
+
+How can you use the commands git log and git diff to view the history of files?
+Ans. To get the overall history of the commits of a file, like how much commits have been made can be seen by the
+command git log whereas for checking what are the changes have been made in between commits can be seen by the help
+of command git diff.
+
+How might using version control make you more confident to make changes that could break something?
+Ans. As the version control provides us with the facility to backtrack to the previous version of the file in 
+order to analyse the error or bug that have caused the problem and as it also provides the feature to look for the line 
+causing the error has a great line of work for developers in order to keep track of there work.
+
+How Do You Want to Use Git?
+Ans. I want to use Git as a tool to keep track of my coding versions in order to resolve any typo mistakes I have made 
+during the process of writing the code.

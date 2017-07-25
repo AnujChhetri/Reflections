@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans. I am not very much clear with this thought but I think as git works manually meaning that it is user oriented and user 
+has all the controll, so on that point we have to initialize a repository to manually set some work of mine to be tracked by 
+git.
