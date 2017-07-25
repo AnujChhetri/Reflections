@@ -9,4 +9,5 @@ we can add files that are to be commited as one, whereas the working directory i
 residing and repository is the area where the commits, that are being made are saved.
 
 How can you use the staging area to make sure you have one commit per logical change?
-Ans. 
+Ans. Staging area can be used for the crosscheck purpose by checking the change done in the working directory files to the 
+previous files present in the staging area before doing any commit.
