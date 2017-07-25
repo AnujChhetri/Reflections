@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 Ans. I am not very much clear with this thought but I think as git works manually meaning that it is user oriented and user 
 has all the controll, so on that point we have to initialize a repository to manually set some work of mine to be tracked by 
 git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans. Staging area basically as a interace between the working directory and the Repository. Itis basiclly an area where 
+we can add files that are to be commited as one, whereas the working directory is the directory where your files are 
+residing and repository is the area where the commits, that are being made are saved.
