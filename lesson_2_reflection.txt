@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 Ans. Situations when someone would be wanting to explore a different aspect after doing some work on the project or when
 we want to test some scenarios for some enhancement or etc to the project. So in these scenarios the branches would help us
 to distinguish between our goal(original) and extra(enhancement) work that is being done.
+
+How do the diagrams help you visualize the branch structure?
+Ans. Diagrams provides us a clear picture about how the commits are stored in the repository and it makes very easy to keep
+track of the branches and helps us to understand the working of git better.
