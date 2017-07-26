@@ -20,3 +20,9 @@ to distinguish between our goal(original) and extra(enhancement) work that is be
 How do the diagrams help you visualize the branch structure?
 Ans. Diagrams provides us a clear picture about how the commits are stored in the repository and it makes very easy to keep
 track of the branches and helps us to understand the working of git better.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans. Merging the two branches basically combies the work that is being done in different aspects and can be combined for the
+enhancement or improvement of the project. The diagram representation basically makes it easier to understand that how the
+branches have diverged from a point and meeting on some future point.
+
